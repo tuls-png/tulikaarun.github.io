@@ -361,66 +361,10 @@ main {
 
 .work .date{
   font-style: italic;
+    font-size: initial;
 }
 
 .work .desc{
     font-size: initial;
 }
 
-
-/*
-section{
-  display: flex;
-  height: 100vh;
-  width: 100%;
-  align-items: center;
-  color: #000;
-  font-size: 20px;
-  z-index: 1;
-
-  flex-direction: column-reverse;
-  flex-wrap: wrap;
-  align-content: space-between;
-}
-
-.description{
-  font-size: 20px;
-  margin: 0 0 35vh 35vh;
-    width: 25em;
-
-}
-
-.description span{
-width: fit-content;
-  
-  padding: 5px;
-  margin-bottom: 1em;
-}
-.picture{
-  border: 1px solid black;
-  margin-right: 15vh;
-  margin-bottom: 7em;
-  height: 26em;
-}
-.picture img{
-  height: 600px;
-  
-}
-.hi{
-  text-align: center;
-  font-size: 30px;
-  max-width: 600px;
-  position: relative;
-}
-
-.hi::before{
-  content: "";
-  display: block;
-  width: 35vh;
-  height: 0.5px;
-  background: #000;
-  left: -5em;
-  top: 50%;
-  position: absolute;
-}
-*/
