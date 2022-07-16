@@ -363,6 +363,10 @@ main {
   font-style: italic;
 }
 
+.work .desc{
+    font-style: initial;
+}
+
 
 /*
 section{
